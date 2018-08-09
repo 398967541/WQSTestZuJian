@@ -44,7 +44,6 @@ s.source_files  = 'ZuJianFile/*'
 
 
   s.requires_arc = true
-s.frameworks = "Foundation","UIKit"
 
 
 end
