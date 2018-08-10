@@ -10,5 +10,4 @@
 
 @interface ZuJian : NSObject
 + (instancetype)sharedInstance;
--(void)showMessage;
 @end
