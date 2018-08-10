@@ -7,8 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 @interface ZuJian : NSObject
 + (instancetype)sharedInstance;
-
+-(void)showMessage;
 @end
