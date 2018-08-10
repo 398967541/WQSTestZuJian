@@ -18,4 +18,7 @@
         });
         return zujian;
     }
+-(void)test{
+    
+}
 @end

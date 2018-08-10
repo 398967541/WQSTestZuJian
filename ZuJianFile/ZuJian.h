@@ -10,4 +10,5 @@
 
 @interface ZuJian : NSObject
 + (instancetype)sharedInstance;
+-(void)test;
 @end
